@@ -23,4 +23,5 @@ nav ul li a:hover {
 }
 .active {
   background-color: green;
+  color: white;
 }
