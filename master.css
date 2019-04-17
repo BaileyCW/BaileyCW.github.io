@@ -6,6 +6,10 @@ nav {
   background-color: #333;
 }
 
+marquee {
+  z-index: -1;
+  float: left;
+}
 nav ul li {
   float: right;
 }
@@ -21,6 +25,7 @@ nav ul li a {
 nav ul li a:hover {
   background-color: #111;
 }
+
 .active {
   background-color: green;
   color: white;
