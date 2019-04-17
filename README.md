@@ -1,2 +1,2 @@
-# BaileyCW.github.io
+# BaileyCW.github.io/home.html
 Online portfolio
