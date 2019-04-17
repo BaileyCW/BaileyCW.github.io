@@ -1,5 +1,4 @@
 nav {
-  display:Inline-block;
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -17,7 +16,7 @@ nav ul li {
 }
 
 nav ul li a {
-  display: block;
+  display:Inline-block;
   color: white;
   text-align: center;
   padding: 14px 16px;
