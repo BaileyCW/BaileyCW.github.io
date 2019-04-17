@@ -6,7 +6,7 @@ nav {
   background-color: #333;
 }
 
-marquee {
+nav marquee {
   z-index: -1;
   float: left;
   color: white;
